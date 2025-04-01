@@ -27,7 +27,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/area_of_square.png" alt="laptop image" width="250" />
+        <img src="./images/area_of_square.jpg" alt="laptop image" width="250" />
       </div>
       <br />
       <div class="page-content">Enter the side length in cm.</div>
