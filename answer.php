@@ -35,7 +35,7 @@
           $lengthOfSide = $_GET["length-of-side"];
 
           // process
-          $area = ($lengthOfSide) ** 2 ;
+          $area = ($lengthOfSide) ** 2;
 
           // output
           echo "If a square has side length = " . $lengthOfSide . " cm ";
